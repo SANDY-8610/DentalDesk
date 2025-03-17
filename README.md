@@ -16,6 +16,16 @@ DentalDesk is a web-based dental clinic management system built with Flask and M
 - **Database**: Microsoft SQL Server
 - **Tools**: PyCharm
 
-##  Installation & Setup
+Installation & Setup
 
-1. 
+1.Download the file or clone the repository
+
+2.Setup virtual Environment python -m venv venv source venv/bin/activate # Mac/Linux venv\Scripts\activate # Windows
+
+3.Install Dependencies pip install -r requirements.txt
+
+4.Database Configuration
+
+Start XAMPP and create a MySQL database with the database file or sql file Update database settings in app.py.
+
+5.Run the Application flask run
