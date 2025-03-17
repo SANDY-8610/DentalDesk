@@ -29,3 +29,11 @@ Installation & Setup
 Start XAMPP and create a MySQL database with the database file or sql file Update database settings in app.py.
 
 5.Run the Application flask run
+
+
+
+## LOGIN DETAILS 
+
+### Admin
+**user:** `admin`
+**pass:** `admin@123`
